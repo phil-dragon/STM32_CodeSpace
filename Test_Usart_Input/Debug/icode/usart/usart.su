@@ -1,0 +1,2 @@
+usart.c:16:6:HAL_UART_RxCpltCallback	16	static
+usart.c:46:6:UART_LEDControl	8	static
