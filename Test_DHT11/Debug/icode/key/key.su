@@ -1,0 +1,4 @@
+key.c:13:9:KEY_0	16	static
+key.c:29:9:KEY_UP	16	static
+key.c:45:6:KEY_Control	8	static
+key.c:60:6:KEY_Printf	8	static
